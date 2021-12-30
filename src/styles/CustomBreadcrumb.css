@@ -1,0 +1,10 @@
+.custombreadcrumb{
+    color: rgb(94, 108, 132);
+    font-size: 15px;
+}
+.custombreadcrumb__forwardslash{
+    position: relative;
+    top: 2px;
+    margin: 0px 10px;
+    font-size: 18px;
+}

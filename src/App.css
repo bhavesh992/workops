@@ -1,0 +1,7 @@
+
+/* Now you can allow child of this div with className="app" to take all available space by two options:-
+1) just set  height: 100vh; width: 100vw; in first div of direct child of "div with className="app" " 
+2)using flex:1 in first div of direct child of "this div with className="app" " and also specifying display:flex here:   */
+/* .app{
+    display: flex;
+} */

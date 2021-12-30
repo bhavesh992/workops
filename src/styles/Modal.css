@@ -1,0 +1,7 @@
+/* found this class name of the header of modal from console */
+.modal-header{
+    padding:10px !important;
+}
+.modal-header > button{
+    width:10%;
+}
